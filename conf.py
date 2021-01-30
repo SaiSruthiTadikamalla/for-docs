@@ -19,7 +19,7 @@
 
 project = 'New Documentation'
 copyright = '2021, Sruthi'
-author = 'Gireesha'
+author = 'Sruthi'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
