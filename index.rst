@@ -10,8 +10,7 @@ Welcome to ABC's documentation!
    :maxdepth: 2
    :numbered:
    
-   syntax.md
-   first.md
+   sruthi.md
 
 
 
